@@ -1,0 +1,1 @@
+object HelloWorld {  def main(args: Array[String]): Unit = {    System.out.println("Hello 撒旦撒旦撒阿斯顿、、World!")  }}
